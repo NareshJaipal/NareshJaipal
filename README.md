@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naresh Jaipal
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter frame work
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on NextJs framework
 
 
 <!---
